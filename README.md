@@ -18,6 +18,6 @@ https://www.youtube.com/watch?v=IpGxLWOIZy4
 A friendly introduction to Deep Learning and Neural Networks :
 https://www.youtube.com/watch?v=BR9h47Jtqyw&t=1475s
 
-Nice youtube playlist talking about mathematique concept : https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH !IMPORTANT TO WATCH 
+Nice youtube playlist talking about mathematical concepts : https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH !IMPORTANT TO WATCH 
 
 Tutorial implementing a neural network from scratch : http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/
