@@ -39,7 +39,7 @@ if __name__ == '__main__':
 
         # Go through all pairs of inputs and targets
         for feature, target in zip(features, targets):
-            # Compute the current neural prediction for those inputs
+            # Compute the current neuron prediction for those inputs
             y = ((w1 * feature[0]) + (w2 * feature[1])) + b
 
             # Print the current prediction
