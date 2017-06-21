@@ -1,5 +1,12 @@
 # Deep learning focus - Epitech
 
+## Prerequisites (Math) :
+<ul>
+  <li>https://fr.khanacademy.org/math/multivariable-calculus : At least the two first part :  Thinking about multivariable functions, Derivatives of multivariable functions)</li>
+  <li>https://www.khanacademy.org/math/linear-algebra : At least the two first part : Vectors and spaces, 
+Matrix transformations</li>
+</ul>
+
 ## Focus 1 :
 
 ### Ressource to study (You don't need to watch everything for the next focus)
